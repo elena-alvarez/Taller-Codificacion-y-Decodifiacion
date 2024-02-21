@@ -1,0 +1,3 @@
+ARISS es la organización de radio amateur en la estación espacial internacional. Es una red de radio que cuenta con una radio en uno de los módulos de la ISS. Una de sus actividades consiste en recibir imágenes desde la ISS a través de antenas de radio. Las imágenes se envían codificadas en audio mediante el método SSTV y se transmiten a la tierra a través de radio FM a una frecuencia de 145.800 khz. Cuando la ISS pasa por encima de nosotros, podemos captar estas señales. 
+En este taller se realiza la simulación del proceso de codificación y decodificación de imágenes en el sistema SSTV.
+Está orientado a estudiantes de secundaria desde 1º de ESO hasta Bachillerato y tiene una duración aproximada de 1 hora.
